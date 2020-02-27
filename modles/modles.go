@@ -4,7 +4,9 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/LiuHuanQing/go_server_base/pkg/setting"
 	"github.com/jinzhu/gorm"
+
 	//postgres
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 )
